@@ -1,6 +1,8 @@
+NOT: Bu proje beta aşamasındadır
 🎭 Trol Discord Botu
 
-Bu bot, belirli bir kullanıcıya belirli bir süre sonra gerçekleşecek “trol” olayları ayarlamanı sağlar. Geri sayım yapar, uyarılar verir ve zamanı gelince patlatır 💥
+Bu bot, belirli bir kullanıcıya belirli bir süre sonra gerçekleşecek “trol” olayları ayarlamanı sağlar. 
+Geri sayım yapar, uyarılar verir ve zamanı gelince patlatır 💥
 
 🚀 Kurulum
 1. Gerekli paketleri yükle
@@ -18,11 +20,12 @@ python trolbot.py
 
 Örnek:
 
-!trolbaslat @ali 2 15 30 "domates gibi kızaracak"
+!trolbaslat @ali 2 15 30 "Evine meteor düşecek"
 ⏳ Kalan süreyi öğren
 !trolkalan mesajID
 📋 Aktif trolları listele
 !trollist
 🗑️ Trol iptal et
 !troliptal mesajID. 
-bu botu yusuf efe döner ve kivanç b tarafından yapılmıştır. iyi trollemeler
+bu botu yusuf efe döner ve kivanç b tarafından yapılmıştır. iyi trollemeler.
+NOT: Bu proje beta aşamasındadır
