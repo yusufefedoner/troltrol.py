@@ -3,7 +3,12 @@ NOT: Bu proje beta aşamasındadır
 🎭 Trol Discord Botu
 
 Bu bot, belirli bir kullanıcıya belirli bir süre sonra gerçekleşecek “trol” olayları ayarlamanı sağlar. 
-Geri sayım yapar, uyarılar verir ve zamanı gelince patlatır 💥
+
+Geri sayım yapar, 
+
+uyarılar verir,
+
+zamanı gelince patlatır 💥
 
 🚀 Kurulum
 1. Gerekli paketleri yükle
