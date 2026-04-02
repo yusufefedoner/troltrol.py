@@ -1,1 +1,1 @@
-# troltrol.py
+bu bir trol botu. bu trol botunda  istediğimiz bir kişiyi seçip ona "gün" "saat" "ne olacağı" kısımlarını doldurup bir mesaj gönderiyor. bu bottan istediğimiz zaman karşı tarafa ne kadar süresi kaldığını gönderiyor. bu botu yusuf efe döner ve kivanç b tarafından yapılmıştır. iyi trollemeler
