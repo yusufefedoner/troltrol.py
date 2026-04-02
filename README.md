@@ -1,4 +1,5 @@
 NOT: Bu proje beta aşamasındadır
+
 🎭 Trol Discord Botu
 
 Bu bot, belirli bir kullanıcıya belirli bir süre sonra gerçekleşecek “trol” olayları ayarlamanı sağlar. 
@@ -28,4 +29,4 @@ python trolbot.py
 🗑️ Trol iptal et
 !troliptal mesajID. 
 bu botu yusuf efe döner ve kivanç b tarafından yapılmıştır. iyi trollemeler.
-NOT: Bu proje beta aşamasındadır
+
