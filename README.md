@@ -28,5 +28,8 @@ python trolbot.py
 !trollist
 🗑️ Trol iptal et
 !troliptal mesajID. 
-bu botu yusuf efe döner ve kivanç b tarafından yapılmıştır. iyi trollemeler.
+
+Bu botu yusuf efe döner ve kivanç b tarafından yapılmıştır. 
+
+iyi trollemeler.
 
